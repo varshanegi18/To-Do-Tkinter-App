@@ -1,7 +1,5 @@
 
-# ✅ Tkinter To-Do List App
-
-> _"A stylish, interactive task manager built using Python and Tkinter GUI framework."_
+# Tkinter To-Do List App
 
 ---
 
@@ -27,17 +25,6 @@ This project is perfect for beginners learning GUI development and also demonstr
 
 ---
 
-## 📂 Project Structure
-
-```
-📁 tkinter-todo-list/
-├── app.py               # Main Python app
-├── tasks.txt            # File to persist task list
-├── requirements.txt     # List of required packages
-└── README.md            # Project overview
-```
-
----
 
 ## ⚙️ Initialization & Setup
 
@@ -70,15 +57,6 @@ python app.py
 
 ---
 
-## 👨‍💻 Author
-
-**Varsha Negi**  
-🎓 BTech AI & ML Student | 🛡️ Cybersecurity Enthusiast | 📡 IoT Explorer  
-📧 Email: varshanegi0403@gmail.com  
-🌐 GitHub: [github.com/yourusername](https://github.com/yourusername)
-
----
-
 ## 🔮 Future Enhancements
 
 - 🌓 Dark/Light **Theme Switcher**
@@ -101,15 +79,4 @@ Feel free to use, share, and improve this app!
 
 Want to make this app even better? Contributions are always welcome!
 
-> Fork the repo → Create a branch → Commit changes → Open a Pull Request ✅
-
----
-
-## ⭐ Show Some Love
-
-If you found this project helpful or inspiring, don’t forget to **star 🌟 the repo** and share it with others!
-
----
-
-Made with 💻 and ☕ by **Varsha Negi**# To-Do-Tkinter-App
-To-Do List desktop application built using Python's Tkinter library, This App offers real-time task management with a clean interface, task completion progress bar, hover effects, custom backgrounds, and a modern user experience. Perfect for beginners learning Tkinter or anyone seeking a lightweight personal task manager.
+> Fork the repo → Create a branch → Commit changes → Open a Pull Request
